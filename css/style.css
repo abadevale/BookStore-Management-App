@@ -1,0 +1,59 @@
+.pdf-list {
+    width: 80%;
+}
+.card {
+    width: 18rem;
+}
+.category .list-group {
+    width: 200px;
+}
+.nd {
+    text-decoration: none;
+}
+
+/* Custom styles for the navbar */
+  .navbar {
+    background-color: black;
+  }
+
+  .navbar-brand,
+  .navbar-nav .nav-link {
+    color: white;
+  }
+
+  .navbar-toggler-icon {
+    background-color: white;
+  }
+
+/* Custom styles for the footer */
+footer {
+    background-color: black;
+    color: white;
+    padding: 20px 0;
+}
+
+footer h5 {
+    color: white;
+}
+
+footer p {
+    color: white;
+}
+
+footer ul {
+    list-style: none;
+    padding-left: 0;
+}
+
+footer ul li {
+    margin-bottom: 10px;
+}
+
+footer ul li a {
+    color: white;
+    text-decoration: none;
+}
+
+footer ul li a:hover {
+    color: #ccc;
+}
